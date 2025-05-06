@@ -144,6 +144,8 @@
       "xl:space-x-8"
     ],
     "ids": [
+      "bilevel-mixed-integer-programming",
+      "dynamic-assortment-planning",
       "hide-button",
       "moon",
       "nav-menu",
@@ -154,9 +156,11 @@
       "search_toggle",
       "section-collection",
       "section-resume-biography",
+      "selected-publications",
       "show-button",
       "site-header",
       "sun",
+      "title-of-the-paper",
       "top"
     ]
   }
