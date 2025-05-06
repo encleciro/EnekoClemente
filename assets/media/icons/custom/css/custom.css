@@ -3,3 +3,18 @@
 .powered-by {
   display: none !important;
 }
+
+/* Force the website to use the custom favicon */
+link[rel="icon"],
+link[rel="apple-touch-icon"] {
+  display: none !important;
+}
+
+/* Add the custom favicon for Apple and standard browsers */
+head::after {
+  content: "";
+  display: block;
+  background-image: url('/resources/_gen/images/pi_favicon.png');
+  width: 0;
+  height: 0;
+}
