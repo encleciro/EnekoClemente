@@ -32,6 +32,11 @@ header:
     enable: true
     show_search: true
     show_theme_chooser: true
+  logo:
+      # Logo text
+      text: ""
+      # Logo filename in `assets/media/` folder
+      filename: "/resources/_gen/images/media/icon_hu_a0dc1595079f..._imresizer.jpg"
 
 # Site footer
 footer:
