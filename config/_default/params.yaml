@@ -3,11 +3,7 @@
 # Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-# Appearance
-appearance:
-  mode: system
-  color: blue
-
+  
 # SEO
 marketing:
   seo:
@@ -37,6 +33,7 @@ header:
       text: "Eneko Clemente" 
       # Logo filename in `assets/media/` folder
       filename: "/resources/_gen/images/media/icon.jpg"
+ 
 
 # Site footer
 footer:

@@ -47,7 +47,7 @@ highlight_name: true
 # Draft false = publish; true = hide
 draft: false                     # ← add this line if it was missing
 ---
-Hello — I’m Eneko, a PhD candidate in Operations Research at the [University of Zurich](https://www.uzh.ch/en.html) under the supervision of Prof. Dr. Oleg Prokopyev. My name is Basque, reflecting my roots in the [Northern (French) Basque Country](https://en.wikipedia.org/wiki/Northern_Basque_Country); feel free to explore the region’s [geography](https://en.wikipedia.org/wiki/Basque_Country_(greater_region)) and [history](https://en.wikipedia.org/wiki/History_of_the_Basque_people) for context. 
+Hello — I’m Eneko, a PhD candidate in Operations Research at the [University of Zurich](https://www.uzh.ch/en.html) under the supervision of Prof. Dr. Oleg Prokopyev. My name is Basque, and I am from the [Northern (French) Basque Country](https://en.wikipedia.org/wiki/Northern_Basque_Country); feel free to explore the region’s [geography](https://en.wikipedia.org/wiki/Basque_Country_(greater_region)) and [history](https://en.wikipedia.org/wiki/History_of_the_Basque_people) for context. 
 
 I earned a BSc in Mathematics from [EPFL](https://www.epfl.ch/) (2020) and an MSc in Applied Mathematics from [ETH Zurich](https://ethz.ch/) (2022). Before starting my doctorate, I gained industry experience as: 
 
