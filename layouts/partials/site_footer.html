@@ -1,0 +1,6 @@
+{{/*  Project‑level override: replaces the theme footer entirely  */}}
+<footer class="py-6 text-center text-sm">
+  {{ with site.Params.footer.copyright.notice }}
+    <p>{{ . | markdownify }}</p>
+  {{ end }}
+</footer>
