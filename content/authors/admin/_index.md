@@ -1,59 +1,60 @@
 ---
-# Display name
-title: 吳健雄
+# Display name (appears in the hero + by‑lines)
+title: Eneko Ciro Clemente
+ 
+# Full name fields (used for SEO/json‑ld)
+first_name: Eneko Ciro
+last_name: Clemente
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
-
-# Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
-
-# Status emoji
-status:
-  icon: ☕️
-
-# Is this the primary user of the site?
+# Primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate in Operations Research
 
-# Organizations/Affiliations to show in About widget
+# Organisations/Affiliations shown in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Zurich
+    url: https://www.uzh.ch/en.html
+  - name: Department of Business Administration
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# Short bio (end‑of‑post author card)
+bio: My research spans bilevel mixed‑integer optimisation, learning & online optimisation, and dynamic assortment planning.
 
-# Social Networking
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+# ---------  SOCIAL LINKS  (add/remove as needed)  ---------------
+# Download extra SVGs to assets/media/icons/ if you need a custom one
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: "mailto:eneko.clemente@business.uzh.ch"
+    label: Email me
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  - icon: academicons/cv
-    url: uploads/resume.pdf
-    label: Download my resume
-  - icon: rss
-    url: ./post/index.xml
-    label: Subscribe to my blog via RSS feed
+    url: https://www.linkedin.com/in/eneko-clemente-887517192/
+  #- icon: academicons/google-scholar
+  #  url: https://scholar.google.com/citations?user=XXXX-XXXX
+  #  label: Google Scholar
+  #- icon: academicons/orcid
+  #  url: https://orcid.org/0000‑0000‑0000‑0000
+  #- icon: brands/github
+  #  url: https://github.com/enekoclemente
+  # Uncomment when your CV PDF is in static/uploads
+  # - icon: academicons/cv
+  #   url: uploads/clemente_cv.pdf
+  #   label: Download my CV 
 
-# Highlight the author in author lists? (true/false)
-highlight_name: true
+# Highlight author name in author lists?
+highlight_name: true 
 
-# Author's website URL
-website: ""
+# Draft false = publish; true = hide
+draft: false                     # ← add this line if it was missing
 ---
+Hello — I’m Eneko, a PhD candidate in Operations Research at the [University of Zurich](https://www.uzh.ch/en.html) under the supervision of Prof. Dr. Oleg Prokopyev. My name is Basque, reflecting my roots in the [Northern (French) Basque Country](https://en.wikipedia.org/wiki/Northern_Basque_Country); feel free to explore the region’s [geography](https://en.wikipedia.org/wiki/Basque_Country_(greater_region)) and [history](https://en.wikipedia.org/wiki/History_of_the_Basque_people) for context. 
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I earned a BSc in Mathematics from [EPFL](https://www.epfl.ch/) (2020) and an MSc in Applied Mathematics from [ETH Zurich](https://ethz.ch/) (2022). Before starting my doctorate, I gained industry experience as: 
+
+- a Quantitative Risk Management intern at [Axpo](https://www.axpo.com/)  
+- a Machine Learning Engineer intern at the [Swiss National Bank](https://www.snb.ch/)  
+- a Consultant at [Deloitte](https://www2.deloitte.com/)
+
+My research sits at the intersection of mathematical programming and learning, with a current focus on bilevel mixed‑integer optimisation, learning & online optimisation, and dynamic assortment planning. I’m always open to nice discussions—feel free to reach out!
+
+---

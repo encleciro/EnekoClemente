@@ -1,0 +1,6 @@
+/* Hide any remaining HugoBlox credit */
+.blox-powered,
+.powered-by,
+footer a[href*="hugoblox.com"] {
+  display: none !important;
+}

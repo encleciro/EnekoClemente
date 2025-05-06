@@ -1,0 +1,5 @@
+/* Hide the Hugo Blox “powered by” credit no matter its class */
+.blox-powered,
+.powered-by {
+  display: none !important;
+}
