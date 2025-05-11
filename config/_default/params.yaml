@@ -32,7 +32,7 @@ header:
       # Logo text
       text: "Eneko Clemente" 
       # Logo filename in `assets/media/` folder
-      filename: "/resources/_gen/images/media/icon.jpg"
+      filename: "/assets/media/logo.png"
  
 
 # Site footer
