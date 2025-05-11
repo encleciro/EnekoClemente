@@ -29,9 +29,9 @@ profiles:
     label: Email me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/eneko-clemente-887517192/
-  #- icon: academicons/google-scholar
-  #  url: https://scholar.google.com/citations?user=XXXX-XXXX
-  #  label: Google Scholar
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=XvGhA_YAAAAJ&hl=it&oi=ao
+    label: Google Scholar
   #- icon: academicons/orcid
   #  url: https://orcid.org/0000‑0000‑0000‑0000
   #- icon: brands/github
