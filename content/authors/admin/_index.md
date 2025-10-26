@@ -55,6 +55,6 @@ I earned a BSc in Mathematics from [EPFL](https://www.epfl.ch/) (2020) and an M
 - a Machine Learning Engineer intern at the [Swiss National Bank](https://www.snb.ch/)  
 - a Consultant at [Deloitte](https://www2.deloitte.com/)
 
-My research interest sits the intersection of learning, optimization, and game theory. My goal is to design algorithms that make decisions in interactive and uncertain environments. On the application side, I apply these ideas to revenue management, with a focus on assortment planning. I’m always open to nice discussions, so please feel free to reach out!
+My research interest sits at the intersection of online learning, optimization, and game theory. My goal is to design algorithms that make decisions in interactive and uncertain environments. On the application side, I apply these ideas to revenue management, with a focus on assortment planning. I’m always open to nice discussions, so please feel free to reach out!
 
 ---
