@@ -7,7 +7,7 @@ title: Publications
 **E.C Clemente**, [**O.A Prokopyev**](https://scholar.google.com/citations?user=nM3-T30AAAAJ&hl=fr&oi=ao), and [**D. Sauré**](https://dii.uchile.cl/~dsaure/)  
 *2025* | [Read Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5243098) | [📄 Download PDF](/publications/dynamicassortmentplanning/SavingKermitEnekoClemente.pdf)
 
-> 🏆 **Second Place for the 2025 Jeff McGill RMP Best Student Paper Prize** [📄 INFORMS](https://www.informs.org/Recognizing-Excellence/Award-Recipients/Eneko-Ciro-Clemente)  
+> 🏆 **Second Place for the 2025 Jeff McGill RMP Best Student Paper Prize** | [📄 INFORMS](https://www.informs.org/Recognizing-Excellence/Award-Recipients/Eneko-Ciro-Clemente)  
 
 ### On Local Search in Bilevel Mixed-Integer Linear Programming
 
