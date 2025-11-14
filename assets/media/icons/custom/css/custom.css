@@ -5,16 +5,12 @@
 }
 
 /* Force the website to use the custom favicon */
-link[rel="icon"],
-link[rel="apple-touch-icon"] {
-  display: none !important;
-}
-
-/* Add the custom favicon for Apple and standard browsers */
+/* Do not hide the <link rel> icons — let `head.html` provide the favicon.
+   Keep a small fallback in CSS that points to the static `/icon.png`. */
 head::after {
   content: "";
   display: block;
-  background-image: url('/resources/_gen/images/pi_favicon.png');
+  background-image: url('/icon.png');
   width: 0;
   height: 0;
 }
