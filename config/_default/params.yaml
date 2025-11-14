@@ -32,7 +32,7 @@ header:
       # Logo text
       text: "Eneko Clemente" 
       # Logo filename in `assets/media/` folder
-      filename: "assets/media/icon.png"
+      filename: "assets/media/icons/custom/icon.png"
  
 
 # Site footer
@@ -60,3 +60,5 @@ features:
     url: 'https://github.com/HugoBlox/hugo-blox-builder/'
     content_dir: starters/blog/content
     branch: main
+
+
