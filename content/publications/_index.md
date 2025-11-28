@@ -9,6 +9,11 @@ title: Publications
 
 > 🏆 **Second Place for the 2025 Jeff McGill RMP Best Student Paper Prize** [📄 INFORMS](https://www.informs.org/Recognizing-Excellence/Award-Recipients/Eneko-Ciro-Clemente)  
 
+### Dimensionality Reduction in Bilevel Linear Programming
+
+**E.C Clemente** and [**O.A Prokopyev**](https://scholar.google.com/citations?user=nM3-T30AAAAJ&hl=fr&oi=ao)  
+*2025* | [Read Paper](https://optimization-online.org/?p=32778) | [📄 Download PDF](/publications/dimensionalityreduction/Dimensionality_Reduction_in_Bilevel_Linear_Programming11282025.pdf)
+
 ### On Local Search in Bilevel Mixed-Integer Linear Programming
 
 **E.C Clemente** and [**O.A Prokopyev**](https://scholar.google.com/citations?user=nM3-T30AAAAJ&hl=fr&oi=ao)  
