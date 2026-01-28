@@ -54,4 +54,5 @@ Welcome, I'm Eneko, a PhD student in Operations Research at the [University o
 - a Consultant at [Deloitte](https://www2.deloitte.com/)
 
 My research interest sits at the intersection of online learning, optimization, and game theory. My goal is to design algorithms that make decisions in interactive and uncertain environments. On the application side, I apply these ideas to revenue management, with a focus on assortment planning. 
+
 ---
