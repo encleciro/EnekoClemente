@@ -47,14 +47,11 @@ highlight_name: true
 # Draft false = publish; true = hide
 draft: false                     # ← add this line if it was missing
 ---
-Hello — I’m Eneko, a PhD student in Operations Research at the [University of Zurich](https://www.uzh.ch/en.html) under the supervision of Prof. Dr. Oleg Prokopyev. My name is Basque, and I am from the [Northern (French) Basque Country](https://en.wikipedia.org/wiki/Northern_Basque_Country); feel free to explore the region’s [geography](https://en.wikipedia.org/wiki/Basque_Country_(greater_region)) and [history](https://en.wikipedia.org/wiki/History_of_the_Basque_people) for context. 
-
-I earned a BSc in Mathematics from [EPFL](https://www.epfl.ch/) (2020) and an MSc in Applied Mathematics from [ETH Zurich](https://ethz.ch/) (2022). Before starting my doctorate, I gained industry experience as: 
+Welcome, I'm Eneko, a PhD student in Operations Research at the [University of Zurich](https://www.uzh.ch/en.html) under the supervision of Prof. Dr. Oleg Prokopyev. I earned a BSc in Mathematics from [EPFL](https://www.epfl.ch/) (2020) and an MSc in Applied Mathematics from [ETH Zurich](https://ethz.ch/) (2022). Before starting my doctorate, I gained industry experience as: 
 
 - a Quantitative Risk Management intern at [Axpo](https://www.axpo.com/)  
 - a Machine Learning Engineer intern at the [Swiss National Bank](https://www.snb.ch/)  
 - a Consultant at [Deloitte](https://www2.deloitte.com/)
 
-My research interest sits at the intersection of online learning, optimization, and game theory. My goal is to design algorithms that make decisions in interactive and uncertain environments. On the application side, I apply these ideas to revenue management, with a focus on assortment planning. I’m always open to nice discussions, so please feel free to reach out!
-
+My research interest sits at the intersection of online learning, optimization, and game theory. My goal is to design algorithms that make decisions in interactive and uncertain environments. On the application side, I apply these ideas to revenue management, with a focus on assortment planning. 
 ---
