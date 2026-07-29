@@ -18,6 +18,8 @@ title: Publications
 
 **E.C Clemente** and [**O.A Prokopyev**](https://scholar.google.com/citations?user=nM3-T30AAAAJ&hl=fr&oi=ao)  
 *2025* | [Read Paper](https://optimization-online.org/?p=30665) | [📄 Download PDF](/publications/onlocalsearchbilevel/Local_Search_Bilevel_Optimization_Optimization_Online.pdf)
+
+> **Accepted for publication in Mathematical Programming**
  
 ### Diversity and Dispersion Models
 
