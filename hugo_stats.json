@@ -14,6 +14,7 @@
       "h1",
       "h2",
       "h3",
+      "h4",
       "head",
       "header",
       "hr",
@@ -155,12 +156,15 @@
       "xl:space-x-8"
     ],
     "ids": [
+      "accepted--published",
       "dimensionality-reduction-in-bilevel-linear-programming",
       "diversity-and-dispersion-models",
       "hide-button",
       "moon",
+      "my-research-interests-are-at-the-intersection-of-optimization-learning-and-game-theory-i-study-decision-making-under-uncertainty-and-strategic-interaction-with-applications-in-revenue-management",
       "nav-menu",
       "nav-toggle",
+      "news",
       "on-local-search-in-bilevel-mixed-integer-linear-programming",
       "page-bg",
       "profile",
@@ -172,7 +176,8 @@
       "show-button",
       "site-header",
       "sun",
-      "top"
+      "top",
+      "working-papers"
     ]
   }
 }

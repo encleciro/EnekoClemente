@@ -47,14 +47,23 @@ highlight_name: true
 # Draft false = publish; true = hide
 draft: false                     # ← add this line if it was missing
 ---
-**News:** "On Local Search in Bilevel Mixed-Integer Linear Programming" has been accepted for publication in Mathematical Programming. You can read the paper [here](/publications/onlocalsearchbilevel/Local_Search_Bilevel_Optimization_Optimization_Online.pdf).
+<h2 style="text-align: center;">News</h2>
 
-Welcome, I'm Eneko, a PhD student in Operations Research at the [University of Zurich](https://www.uzh.ch/en.html) under the supervision of Prof. Dr. Oleg Prokopyev. I earned a BSc in Mathematics from [EPFL](https://www.epfl.ch/) (2020) and an MSc in Applied Mathematics from [ETH Zurich](https://ethz.ch/) (2022). Before starting my doctorate, I gained industry experience as: 
+**2026** — *On Local Search in Bilevel Mixed-Integer Linear Programming* has been accepted for publication in **Mathematical Programming**.
 
-- a Quantitative Risk Management intern at [Axpo](https://www.axpo.com/)  
-- a Machine Learning Engineer intern at the [Swiss National Bank](https://www.snb.ch/)  
-- a Consultant at [Deloitte](https://www2.deloitte.com/)
+**2025** — *Saving Kermit: Dynamic Assortment Planning in a Boiling Market* received **Second Place in the 2025 Jeff McGill RMP Best Student Paper Prize**.
 
-My research interest sits at the intersection of online learning, optimization, and game theory. My goal is to design algorithms that make decisions in interactive and uncertain environments. On the application side, I apply these ideas to revenue management, with a focus on assortment planning.
+---
+
+<h2 style="text-align: center;">About Me</h2>
+
+Welcome, I'm Eneko, a PhD student in Operations Research at the [University of Zurich](https://www.uzh.ch/en.html) under the supervision of [Prof. Prokopyev](https://scholar.google.com/citations?user=nM3-T30AAAAJ&hl=fr&oi=ao). I earned a BSc in Mathematics from [EPFL](https://www.epfl.ch/) (2020) and an MSc in Applied Mathematics from [ETH Zurich](https://ethz.ch/) (2022). 
+
+Before starting my PhD, I gained industry experience as: 
+- a Quantitative Risk Management intern at [Axpo](https://www.axpo.com/);  
+- a Machine Learning Engineer intern at the [Swiss National Bank](https://www.snb.ch/);  
+- a Consultant at [Deloitte](https://www2.deloitte.com/).
+
+My research interests are at the intersection of optimization, learning, and game theory. I study decision-making under uncertainty and strategic interaction, with applications in revenue management.
 
 ---
