@@ -1,69 +1,142 @@
 ---
-# Display name (appears in the hero + by‑lines)
-title: Eneko Ciro Clemente
- 
-# Full name fields (used for SEO/json‑ld)
+title: Eneko Ciro Clemente
 first_name: Eneko Ciro
 last_name: Clemente
 
-# Primary user of the site?
 superuser: true
 
-# Role/position/tagline
-role: PhD student in Operations Research
+role: PhD student in Operations Research
 
-# Organisations/Affiliations shown in About widget
 organizations:
   - name: University of Zurich
     url: https://www.uzh.ch/en.html
   - name: Department of Business Administration
 
-# Short bio (end‑of‑post author card)
-bio: My research interest sits the intersection of learning, optimization, and game theory. My goal is to design algorithms that make decisions in interactive and uncertain environments. On the application side, I apply these ideas to revenue management, with a focus on assortment planning.
+bio: My research interests lie at the intersection of optimization, learning, and game theory. I study how algorithms should make decisions under uncertainty and strategic interaction, with applications in revenue management and assortment planning.
 
-# ---------  SOCIAL LINKS  (add/remove as needed)  ---------------
-# Download extra SVGs to assets/media/icons/ if you need a custom one
 profiles:
   - icon: at-symbol
     url: "mailto:eneko.clemente@business.uzh.ch"
     label: Email me
+
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/eneko-clemente-887517192/
+
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=XvGhA_YAAAAJ&hl=it&oi=ao
-    label: Google Scholar
-  #- icon: academicons/orcid
-  #  url: https://orcid.org/0000‑0000‑0000‑0000
-  #- icon: brands/github
-  #  url: https://github.com/enekoclemente
-  # Uncomment when your CV PDF is in static/uploads
-  # - icon: academicons/cv
-  #   url: uploads/clemente_cv.pdf
-  #   label: Download my CV 
+    label: Google Scholar
 
-# Highlight author name in author lists?
-highlight_name: true 
-
-# Draft false = publish; true = hide
-draft: false                     # ← add this line if it was missing
----
-<h2 style="text-align: center;">News</h2>
-
-**2026** — *On Local Search in Bilevel Mixed-Integer Linear Programming* has been accepted for publication in **Mathematical Programming**.
-
-**2025** — *Saving Kermit: Dynamic Assortment Planning in a Boiling Market* received **Second Place in the 2025 Jeff McGill RMP Best Student Paper Prize**.
-
+highlight_name: true
+draft: false
 ---
 
-<h2 style="text-align: center;">About Me</h2>
+<style>
+.home-content {
+  max-width: 850px;
+  margin: 0 auto;
+}
 
-Welcome, I'm Eneko, a PhD student in Operations Research at the [University of Zurich](https://www.uzh.ch/en.html) under the supervision of [Prof. Prokopyev](https://scholar.google.com/citations?user=nM3-T30AAAAJ&hl=fr&oi=ao). I earned a BSc in Mathematics from [EPFL](https://www.epfl.ch/) (2020) and an MSc in Applied Mathematics from [ETH Zurich](https://ethz.ch/) (2022). 
+.home-section {
+  margin-top: 2.8rem;
+}
 
-Before starting my PhD, I gained industry experience as: 
-- a Quantitative Risk Management intern at [Axpo](https://www.axpo.com/);  
-- a Machine Learning Engineer intern at the [Swiss National Bank](https://www.snb.ch/);  
-- a Consultant at [Deloitte](https://www2.deloitte.com/).
+.home-section-title {
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin: 0 0 1.1rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 1px solid #e5e5e5;
+}
 
-My research interests are at the intersection of optimization, learning, and game theory. I study decision-making under uncertainty and strategic interaction, with applications in revenue management.
+.news-item {
+  display: grid;
+  grid-template-columns: 4rem 1fr;
+  gap: 1rem;
+  margin-bottom: 0.85rem;
+  font-size: 0.95rem;
+  line-height: 1.55;
+}
 
----
+.news-year {
+  font-weight: 600;
+  color: #666;
+}
+
+.about-text {
+  font-size: 0.97rem;
+  line-height: 1.7;
+}
+
+.about-text p {
+  margin-bottom: 1rem;
+}
+
+@media (max-width: 600px) {
+  .news-item {
+    grid-template-columns: 1fr;
+    gap: 0.1rem;
+  }
+}
+</style>
+
+<div class="home-content">
+
+<section class="home-section">
+
+<h2 class="home-section-title">News</h2>
+
+<div class="news-item">
+  <div class="news-year">2026</div>
+  <div>
+    <em>On Local Search in Bilevel Mixed-Integer Linear Programming</em>
+    has been accepted for publication in <strong>Mathematical Programming</strong>.
+  </div>
+</div>
+
+<div class="news-item">
+  <div class="news-year">2025</div>
+  <div>
+    <em>Saving Kermit: Dynamic Assortment Planning in a Boiling Market</em>
+    received <strong>Second Place in the 2025 Jeff McGill RMP Best Student Paper Prize</strong>.
+  </div>
+</div>
+
+</section>
+
+
+<section class="home-section">
+
+<h2 class="home-section-title">About Me</h2>
+
+<div class="about-text">
+
+<p>
+Welcome, I'm Eneko, a PhD student in Operations Research at the
+<a href="https://www.uzh.ch/en.html">University of Zurich</a>
+under the supervision of
+<a href="https://scholar.google.com/citations?user=nM3-T30AAAAJ&hl=fr&oi=ao">Prof. Oleg A. Prokopyev</a>.
+I earned a BSc in Mathematics from
+<a href="https://www.epfl.ch/">EPFL</a>
+in 2020 and an MSc in Applied Mathematics from
+<a href="https://ethz.ch/">ETH Zurich</a>
+in 2022.
+</p>
+
+<p>
+My research studies algorithmic decision-making in operations from both a micro and a macro perspective. At the micro level, I study how to model and solve complex decision problems involving uncertainty and hierarchical interactions. At the macro level, I study how algorithmic decision-makers interact and how these interactions shape market outcomes. On the methodology side, my research lies at the intersection of mathematical programming, learning, and game theory.
+</p>
+
+<p>
+Before starting my PhD, I worked in quantitative risk management at
+<a href="https://www.axpo.com/">Axpo</a>,
+machine learning at the
+<a href="https://www.snb.ch/">Swiss National Bank</a>,
+and consulting at
+<a href="https://www2.deloitte.com/">Deloitte</a>.
+</p>
+
+</div>
+
+</section>
+
+</div>
